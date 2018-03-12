@@ -1,4 +1,3 @@
-# Open-Data-Directive
 # Ontario’s Open Data Directive 
 
 Ontario’s Open Data Directive maximizes access to government data by requiring all data to be made public, unless it is exempt for legal, privacy, security, confidentiality or commercially-sensitive reasons. It sets out key principles and requirements for publishing open data, and applies to data created and managed by Ontario [ministries](https://www.ontario.ca/page/ministries) and [provincial agencies](https://www.ontario.ca/page/agency-accountability).
