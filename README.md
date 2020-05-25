@@ -10,25 +10,25 @@ Open Data Directive
 Table of Contents
 -----------------
 
-1. [Introduction](#Introduction)
+1. [Introduction](#1-Introduction)
 
-2. [Purpose](#Purpose)
+2. [Purpose](#2-Purpose)
 
-3. [Application and Scope](#Application-and-Scope)
+3. [Application and Scope](#3-Application-and-Scope)
 
-4. [Principles](#Principles)
+4. [Principles](#4-Principles)
 
-5. [Requirements](#Requirements)
+5. [Requirements](#5-Requirements)
 
-6. [Open Data Engagement](#Open-Data-Engagement)
+6. [Open Data Engagement](#6-Open-Data-Engagement)
 
-7. [Definitions](#Definitions)
+7. [Definitions](#7-Definitions)
 
-8. [Responsibilities](#Responsibilites)
+8. [Responsibilities](#8-Responsibilites)
 
-10. [Appendix A Open Government Licence Ontario](#Appendix-A-Open-Government-Licence-Ontario)
+[Appendix A Open Government Licence Ontario](#Appendix-A-Open-Government-Licence-Ontario)
 
-11. [Appendix B Approval Authorities](#Appendix-B-Approval-Authorities)
+[Appendix B Approval Authorities](#Appendix-B-Approval-Authorities)
 
 | Date of Amendment | Description of Amendment                                                                                                               | Page Reference          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
@@ -40,7 +40,7 @@ Table of Contents
 | June 4, 2019      | Addition of new Appendix B outlining for information on approval authority and delegation of authority                                 |                         |
 | June 4, 2019      | Housekeeping edits (reflecting transition of Open Government from TBS to ODS, CAB, fixing capitalization to align with best practices) | Throughout the document |
 
-Introduction
+1 Introduction
 ---------------
 
 This Directive outlines requirements for ministries and provincial agencies on
@@ -62,7 +62,7 @@ available as a tool and resource to Ontario ministries and provincial agencies.
 The Open Data Directive is a Management Board of Cabinet Directive, issued under
 the *Management Board of Cabinet Act*.
 
-Purpose
+2 Purpose
 ----------
 
 The purpose of this directive is to maximize access to data by requiring that
@@ -86,7 +86,7 @@ This directive:
 -   Promotes a culture of openness and collaboration both within the public
     service and externally with the people of Ontario.
 
-Application and Scope
+3 Application and Scope
 ------------------------
 
 This directive applies to all Ontario ministries and provincial agencies.
@@ -102,7 +102,7 @@ Act, 1990*, the *Personal Health Information Protection Act, 2004*, the *French
 Language Services Act, 1990*, and the *Accessibility for Ontarians with
 Disabilities Act, 2005* or other applicable legislation.
 
-Principles
+4 Principles
 -------------
 
 Government data is open by default unless exempted from release in limited and
@@ -130,7 +130,7 @@ Guidelines](https://www150.statcan.gc.ca/n1/en/catalogue/12-539-X)) and released
 in accordance with the principles in the [International Open Data
 Charter](https://opendatacharter.net/principles/).
 
-Requirements
+5 Requirements
 ---------------
 
 The directive requires government data be open by default unless exempted from
@@ -280,7 +280,7 @@ release in limited and specific circumstances as set out below:
     programming interfaces (API) in accordance with common best practices
     presented in the Open Data Guidebook.
 
-Open Data Engagement
+6 Open Data Engagement
 -----------------------
 
 As part of Ontario’s Open Government Initiative, ministries and provincial
@@ -314,7 +314,7 @@ stakeholders and the public.
     This includes collecting community input, feedback and improving open data
     quality standards.
 
-Definitions
+7 Definitions
 --------------
 
 **provincial agency —** has the following characteristics:
@@ -400,7 +400,7 @@ Ontario and certain Creative Commons licences.
 Freedom of Information and Protection of Privacy Act* and as “Personal Health
 Information” in the *Personal Health Information Protection Act.*
 
-Responsibilities
+8 Responsibilities
 -------------------
 
 **Chief Digital and Data Officer – responsible for:**

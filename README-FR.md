@@ -9,25 +9,25 @@
 **Conseil de gestion du gouvernement**  
 ##  Table des matières
 
-[1. Introduction - 4](#_Toc12543507)
+1. [Introduction](#1-Introduction)
 
-[2. But - 4](#_Toc12543508)
+2. [But](#2-But)
 
-[3. Application et portée - 5](#_Toc12543509)
+3. [Application et portée](#3-Application-et-portée)
 
-[4. Principes - 5](#_Toc12543510)
+4. [Principes](#4-Principes)
 
-[5. Exigences - 6](#_Toc12543511)
+5. [Exigences](#5-Exigences)
 
-[6. Engagement à l’égard des données ouvertes - 10](#_Toc12543512)
+6. [Engagement à l’égard des données ouvertes](#6-Engagement-à-l’égard-des-données-ouvertes)
 
-[7. Définitions - 11](#_Toc12543513)
+7. [Définitions](#7-Définitions)
 
-[8. Responsabilités - 13](#_Toc12543514)
+8. [Responsabilités](#8-Responsabilités)
 
-[Annexe A – Licence du gouvernement ouvert – Ontario - 15](#_Toc12543515)
+[Annexe A Licence du gouvernement ouvert Ontario](#Annexe-A-Licence-du-gouvernment-ouvert-Ontario)
 
-[Annexe B – Pouvoir d'approbation - 17](#annexe-b-pouvoir-dapprobation)
+[Annexe B Pouvoir d'approbation](#annexe-b-pouvoir-dapprobation)
 
 | Date des modifications | Description des modifications                                                                                                                                                                     | Référence (page)        |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
@@ -39,7 +39,7 @@
 | Le 4 juin 2019         | Ajout d’une nouvelle annexe B qui contient de l’information sur le pouvoir d’approbation et la délégation de pouvoir                                                                              |                         |
 | Le 4 juin 2019         | Petites modifications administratives (visant à refléter la transition du Gouvernement ouvert du SCT aux SNO, CAB, et en modifiant les lettres majuscules conformément aux pratiques exemplaires) | À l’échelle du document |
 
-##  1. Introduction
+##  1 Introduction
 
 Cette directive décrit les exigences que doivent respecter les ministères et les
 organismes provinciaux relativement à la publication de tous les inventaires de
@@ -64,7 +64,7 @@ La Directive régissant les données ouvertes est une directive du Conseil de
 gestion du gouvernement rendue publique conformément à la *Loi sur le Conseil de
 gestion du gouvernement*.
 
-##  2. But
+##  2 But
 
 La présente directive vise à maximiser l’accès aux données en exigeant que les
 données du gouvernement soient ouvertes par défaut, sauf lorsqu’elles sont
@@ -90,7 +90,7 @@ Cette directive :
 -   favorise une culture d’ouverture et de collaboration, tant au sein de la
     fonction publique qu’à l’externe avec la population de l’Ontario
 
-##  3. Application et portée
+##  3 Application et portée
 
 La présente directive s’applique à tous les ministères et organismes provinciaux
 de l’Ontario.
@@ -108,7 +108,7 @@ la santé*; la *Loi de 1990 sur les services en français*; et la *Loi de 2005 s
 l’accessibilité pour les personnes handicapées de l’Ontario* et toute autre loi
 applicable.
 
-##  4. Principes
+##  4 Principes
 
 Les données gouvernementales sont ouvertes par défaut, sauf si elles sont
 exemptées de publication dans les circonstances précises limitées mentionnées
@@ -140,7 +140,7 @@ qualité](https://www150.statcan.gc.ca/n1/fr/catalogue/12-539-X)) et publiées
 conformément aux principes de la [Charte internationale sur les données
 ouvertes](https://opendatacharter.net/principles-fr/).
 
-##  5. Exigences
+##  5 Exigences
 
 Selon la directive, les données gouvernementales doivent être ouvertes par
 défaut, sauf si elles sont exemptées de publication dans les circonstances
@@ -313,7 +313,7 @@ précises limitées mentionnées ci-dessous :
     d’interfaces de programmation d’applications, conformément aux pratiques
     exemplaires courantes présentées dans le guide sur les données ouvertes.
 
-##  6. Engagement à l’égard des données ouvertes
+##  6 Engagement à l’égard des données ouvertes
 
 Dans le cadre de l’Initiative sur les données ouvertes du gouvernement de
 l’Ontario, les ministères et les organismes provinciaux doivent élaborer des
@@ -352,7 +352,7 @@ ouvertes aux intervenants et au public.
     des commentaires et rétroactions de la collectivité et le rehaussement des
     normes de qualité des données ouvertes.
 
-##  7. Définitions
+##  7 Définitions
 
 **Catalogue de données de l’Ontario** – instrument informatisé employé pour
 diffuser les données conformément à la présente directive. Il peut être consulté
@@ -452,7 +452,7 @@ la *Loi sur l’accès à l’information municipale et la protection de la vie
 privée* ainsi que les renseignements personnels sur la santé définis dans la
 *Loi sur la protection des renseignements personnels sur la santé.*
 
-##  8. Responsabilités
+##  8 Responsabilités
 
 **Le directeur du numérique et des données – assume les responsabilités
 suivantes :**
