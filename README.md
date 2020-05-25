@@ -10,7 +10,7 @@ Open Data Directive
 Table of Contents
 -----------------
 
-[1 Introduction - 4](##1_Introduction)
+1. [Introduction](##Introduction)
 
 [2 Purpose - 4](##_2_Purpose)
 
@@ -40,7 +40,7 @@ Table of Contents
 | June 4, 2019      | Addition of new Appendix B outlining for information on approval authority and delegation of authority                                 |                         |
 | June 4, 2019      | Housekeeping edits (reflecting transition of Open Government from TBS to ODS, CAB, fixing capitalization to align with best practices) | Throughout the document |
 
-1 Introduction
+Introduction
 ---------------
 
 This Directive outlines requirements for ministries and provincial agencies on
