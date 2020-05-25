@@ -14,21 +14,21 @@ Table of Contents
 
 2. [Purpose](#Purpose)
 
-3. [Application and Scope](#Application_and_Scope)
+3. [Application and Scope](#Application-and-Scope)
 
 4. [Principles](#Principles)
 
-5. [Requirements5](#Requirements)
+5. [Requirements](#Requirements)
 
-6. [Open Data Engagement](#Open_Data_Engagement)
+6. [Open Data Engagement](#Open-Data-Engagement)
 
 7. [Definitions](#Definitions)
 
 8. [Responsibilities](#Responsibilites)
 
-10. [Appendix A – Open Government Licence – Ontario](#Appendix_A_–_Open_Government_Licence_–_Ontario)
+10. [Appendix A – Open Government Licence – Ontario](#Appendix-A-–-Open-Government-Licence-–-Ontario)
 
-11. [Appendix B – Approval Authorities](#Appendix_B_–_Approval_Authorities)
+11. [Appendix B – Approval Authorities](#Appendix-B-–-Approval-Authorities)
 
 | Date of Amendment | Description of Amendment                                                                                                               | Page Reference          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
