@@ -10,9 +10,9 @@ Open Data Directive
 Table of Contents
 -----------------
 
-1. [Introduction](##Introduction)
+1. [Introduction](#Introduction)
 
-[2 Purpose - 4](##_2_Purpose)
+2. [Purpose](#_Purpose)
 
 [3 Application and Scope - 5](#_Toc12543509)
 
@@ -62,7 +62,7 @@ available as a tool and resource to Ontario ministries and provincial agencies.
 The Open Data Directive is a Management Board of Cabinet Directive, issued under
 the *Management Board of Cabinet Act*.
 
-2 Purpose
+Purpose
 ----------
 
 The purpose of this directive is to maximize access to data by requiring that
