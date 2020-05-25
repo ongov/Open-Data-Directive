@@ -10,21 +10,21 @@ Open Data Directive
 Table of Contents
 -----------------
 
-[1. Introduction - 4](#_Toc12543507)
+[1 Introduction - 4](#_43)
 
-[2. Purpose - 4](#_Toc12543508)
+[2 Purpose - 4](#_Toc65)
 
-[3. Application and Scope - 5](#_Toc12543509)
+[3 Application and Scope - 5](#_Toc12543509)
 
-[4. Principles - 5](#_Toc12543510)
+[4 Principles - 5](#_Toc12543510)
 
-[5. Requirements - 5](#_Toc12543511)
+[5 Requirements - 5](#_Toc12543511)
 
-[6. Open Data Engagement - 9](#_Toc12543512)
+[6 Open Data Engagement - 9](#_Toc12543512)
 
-[7. Definitions - 9](#_Toc12543513)
+[7 Definitions - 9](#_Toc12543513)
 
-[8. ResponsIbilities - 11](#_Toc12543514)
+[8 ResponsIbilities - 11](#_Toc12543514)
 
 [Appendix A – Open Government Licence – Ontario - 13](#_Toc12543515)
 
@@ -40,7 +40,7 @@ Table of Contents
 | June 4, 2019      | Addition of new Appendix B outlining for information on approval authority and delegation of authority                                 |                         |
 | June 4, 2019      | Housekeeping edits (reflecting transition of Open Government from TBS to ODS, CAB, fixing capitalization to align with best practices) | Throughout the document |
 
-1. Introduction
+1 Introduction
 ---------------
 
 This Directive outlines requirements for ministries and provincial agencies on
@@ -62,7 +62,7 @@ available as a tool and resource to Ontario ministries and provincial agencies.
 The Open Data Directive is a Management Board of Cabinet Directive, issued under
 the *Management Board of Cabinet Act*.
 
-2. Purpose
+2 Purpose
 ----------
 
 The purpose of this directive is to maximize access to data by requiring that
@@ -86,7 +86,7 @@ This directive:
 -   Promotes a culture of openness and collaboration both within the public
     service and externally with the people of Ontario.
 
-3. Application and Scope
+3 Application and Scope
 ------------------------
 
 This directive applies to all Ontario ministries and provincial agencies.
@@ -102,7 +102,7 @@ Act, 1990*, the *Personal Health Information Protection Act, 2004*, the *French
 Language Services Act, 1990*, and the *Accessibility for Ontarians with
 Disabilities Act, 2005* or other applicable legislation.
 
-4. Principles
+4 Principles
 -------------
 
 Government data is open by default unless exempted from release in limited and
@@ -130,7 +130,7 @@ Guidelines](https://www150.statcan.gc.ca/n1/en/catalogue/12-539-X)) and released
 in accordance with the principles in the [International Open Data
 Charter](https://opendatacharter.net/principles/).
 
-5. Requirements
+5 Requirements
 ---------------
 
 The directive requires government data be open by default unless exempted from
@@ -230,13 +230,13 @@ release in limited and specific circumstances as set out below:
     area to another program area, the new program area must update the dataset
     description in the Ontario Data Catalogue to reflect this.
 
-1.  When legislation mandates the release of data but does not specifically
+9.  When legislation mandates the release of data but does not specifically
     prescribe the format, ministries and provincial agencies should make best
     efforts to apply open data principles (i.e., listed in Ontario Data
     Catalogue, in an open format under the Open Government Licence – Ontario
     and/or a similar open licence where appropriate).
 
-2.  In cases where ministries and provincial agencies apply fees to process a
+10.  In cases where ministries and provincial agencies apply fees to process a
     request for data, they must review the current practice to assess if
     releasing it as open data would be a more effective and efficient way of
     providing the data. This does not apply to freedom of information requests
@@ -244,7 +244,7 @@ release in limited and specific circumstances as set out below:
     application and processing fees or other fees authorized by or under
     statute.
 
-3.  Open data is to be published in the Ontario Data Catalogue in the language
+11.  Open data is to be published in the Ontario Data Catalogue in the language
     it was collected. The dataset title, description, and all accompanying
     information must be available simultaneously in both English and French.
 
@@ -266,21 +266,21 @@ release in limited and specific circumstances as set out below:
     original data created or collected as an output of contracts with suppliers,
     unless the data should be excluded from being made available as open data.
 
-1.  The Treasury Board Secretariat must ensure that open data requirements
+2.  The Treasury Board Secretariat must ensure that open data requirements
     (e.g., extraction of data in an open format) are built into enterprise
     architecture, project approval and project assurance processes.
 
-2.  All ministries and provincial agencies are accountable to include open data
+3.  All ministries and provincial agencies are accountable to include open data
     requirements (i.e., extraction of data in an open format) into their
     architecture review and project approval processes.
 
-3.  All data management platforms, applications and solutions acquired or built
+4.  All data management platforms, applications and solutions acquired or built
     must have features as a core function that allow for the extraction of
     content into an open format. This may be accomplished through application
     programming interfaces (API) in accordance with common best practices
     presented in the Open Data Guidebook.
 
-6. Open Data Engagement
+6 Open Data Engagement
 -----------------------
 
 As part of Ontario’s Open Government Initiative, ministries and provincial
@@ -314,7 +314,7 @@ stakeholders and the public.
     This includes collecting community input, feedback and improving open data
     quality standards.
 
-7. Definitions
+7 Definitions
 --------------
 
 **provincial agency —** has the following characteristics:
@@ -400,7 +400,7 @@ Ontario and certain Creative Commons licences.
 Freedom of Information and Protection of Privacy Act* and as “Personal Health
 Information” in the *Personal Health Information Protection Act.*
 
-8. ResponsIbilities
+8 ResponsIbilities
 -------------------
 
 **Chief Digital and Data Officer – responsible for:**
@@ -485,12 +485,12 @@ Open Government Licence – Ontario
 
 **You are free to:**
 
-1.  Copy, modify, publish, translate, adapt, distribute or otherwise use the
+3.  Copy, modify, publish, translate, adapt, distribute or otherwise use the
     Information in any medium, mode or format for any lawful purpose.
 
 **You must, where you do any of the above:**
 
-1.  Acknowledge the source of the information by including any attribution
+4.  Acknowledge the source of the information by including any attribution
     statement specified by the information provider(s) and, where possible,
     provide a link to this licence.
 
@@ -501,41 +501,37 @@ Open Government Licence – Ontario
 
     Contains information licensed under the Open Government Licence – Ontario.
 
-1.  The terms of this licence are important, and if you fail to comply with any
+5.  The terms of this licence are important, and if you fail to comply with any
     of them, the rights granted to you under this licence, or any similar
     licence granted by the Information Provider, will end automatically.
 
 **Exemptions**
 
-1.  This licence does not grant you any right to use:
+6.  This licence does not grant you any right to use:
 
-    1.  personal information;
+    a)  personal information;
 
-    2.  information or records not accessible under the *Freedom of Information
-        and Protection of Privacy Act* (Ontario);
+    b)  information or records not accessible under the *Freedom of Information and Protection of Privacy Act* (Ontario);
 
-    3.  third party rights the information provider is not authorized to
-        license;
+    c)  third party rights the information provider is not authorized to license;
 
-    4.  the names, crests, logos, or other official symbols of the information
-        provider; and
+    d)  the names, crests, logos, or other official symbols of the information provider; and
 
-    5.  information subject to other intellectual property rights, including
-        patents, trade-marks and official marks.
+    e) information subject to other intellectual property rights, including patents, trade-marks and official marks.
 
 **Non-endorsement**
 
-1.  This licence does not grant you any right to use the Information in a way
+7.  This licence does not grant you any right to use the Information in a way
     that suggests any official status or that the information provider endorses
     you or your use of the information.
 
 **No warranty**
 
-1.  The information is licensed "as is", and the information provider excludes
+8.  The information is licensed "as is", and the information provider excludes
     all representations, warranties, obligations, and liabilities, whether
     express or implied, to the maximum extent permitted by law.
 
-2.  The information provider is not liable for any errors or omissions in the
+9.  The information provider is not liable for any errors or omissions in the
     information, and will not under any circumstances be liable for any direct,
     indirect, special, incidental, consequential, or other loss, injury or
     damage caused by its use or otherwise arising in connection with this
@@ -544,15 +540,15 @@ Open Government Licence – Ontario
 
 **Governing Law**
 
-1.  This licence is governed by the laws of the Province of Ontario and the
+10.  This licence is governed by the laws of the Province of Ontario and the
     applicable laws of Canada.
 
-2.  Legal proceedings related to this licence may only be brought in the courts
+11.  Legal proceedings related to this licence may only be brought in the courts
     of Ontario.
 
 **Definitions**
 
-1.  In this licence, the terms below have the following meanings:
+12.  In this licence, the terms below have the following meanings:
 
 **"Information"**
 
@@ -580,7 +576,7 @@ acquiring rights under this licence.
 
 **Versioning**
 
-1.  This is version 1.0 of the Open Government Licence – Ontario. The
+13.  This is version 1.0 of the Open Government Licence – Ontario. The
     information provider may make changes to the terms of this licence from time
     to time and issue a new version of the licence. Your use of the information
     will be governed by the terms of the licence in force as of the date you
