@@ -26,9 +26,9 @@ Table of Contents
 
 8. [Responsibilities](#Responsibilites)
 
-10. [Appendix A – Open Government Licence – Ontario](#Appendix-A-–-Open-Government-Licence-–-Ontario)
+10. [Appendix A Open Government Licence Ontario](#Appendix-A-Open-Government-Licence-Ontario)
 
-11. [Appendix B – Approval Authorities](#Appendix-B-–-Approval-Authorities)
+11. [Appendix B Approval Authorities](#Appendix-B-Approval-Authorities)
 
 | Date of Amendment | Description of Amendment                                                                                                               | Page Reference          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
@@ -458,7 +458,7 @@ responsible for:**
 
 -   Being aware of and following the principles and requirements of this directive.
 
-Appendix A – Open Government Licence – Ontario
+Appendix A Open Government Licence Ontario
 -----------------------------------------------
 
 Note: The Open Government Licence – Ontario is based on a template adopted by
@@ -571,7 +571,7 @@ acquiring rights under this licence.
     will be governed by the terms of the licence in force as of the date you
     accessed the information.
 
-Appendix B – Approval Authorities
+Appendix B Approval Authorities
 ---------------------------------
 
 | **Provision**           | **Approval Level**                                     | **Delegation** |
