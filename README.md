@@ -10,9 +10,9 @@ Open Data Directive
 Table of Contents
 -----------------
 
-[1 Introduction - 4](#_43)
+[1 Introduction - 4](#_1_Introduction)
 
-[2 Purpose - 4](#_Toc65)
+[2 Purpose - 4](#_2 Purpose)
 
 [3 Application and Scope - 5](#_Toc12543509)
 
@@ -254,7 +254,7 @@ release in limited and specific circumstances as set out below:
     at minimum, include in all new government contracts with vendors, provisions
     that address the following concepts:
 
--   1.1 The government of Ontario will obtain the right to publish procurement
+   1.1 The government of Ontario will obtain the right to publish procurement
     contract data as open data. Procurement contract data such as the winning
     bid for every contract awarded (e.g. vendor name, financial payment
     information) should be included and published in a timely manner, unless
@@ -405,8 +405,7 @@ Information” in the *Personal Health Information Protection Act.*
 
 **Chief Digital and Data Officer – responsible for:**
 
--   Reporting on ministry and provincial agency compliance with the directive
-    and on the progress of the open government initiative.
+-   Reporting on ministry and provincial agency compliance with the directive and on the progress of the open government initiative.
 
 -   Administering the Ontario Data Catalogue and inventory.
 
@@ -415,8 +414,7 @@ Information” in the *Personal Health Information Protection Act.*
 **Deputy Ministers and Provincial Agency CEOs (or Chairs if appropriate) –
 responsible for:**
 
--   Adhering to and promoting the principles and requirements in this directive
-    and ensuring that ministry staff do the same.
+-   Adhering to and promoting the principles and requirements in this directive and ensuring that ministry staff do the same.
 
 -   Putting in place processes that support the Directive.
 
@@ -426,12 +424,9 @@ responsible for:**
 
 **Cluster Chief Information Officers – responsible for:**
 
--   Providing IT support to client ministries in the release of Open Data as
-    required.
+-   Providing IT support to client ministries in the release of Open Data as required.
 
--   Ensuring that all data management platforms, applications and solutions
-    acquired or built have open data features as a core function, in accordance
-    with this directive.
+-   Ensuring that all data management platforms, applications and solutions acquired or built have open data features as a core function, in accordance with this directive.
 
 **I&IT project governance committees – responsible for:**
 
@@ -443,18 +438,15 @@ responsible for:**
 
 **Directors – responsible for:**
 
--   Ensuring that a risk-based assessment process following the Open Data
-    Guidebook is applied prior to the release of open data.
+-   Ensuring that a risk-based assessment process following the Open Data Guidebook is applied prior to the release of open data.
 
 -   Approving the release of open data as set out in this Directive.
 
--   Delegating risk-based approval authority to Managers within the ministry or
-    provincial agency except as restricted in this Directive.
+-   Delegating risk-based approval authority to Managers within the ministry or provincial agency except as restricted in this Directive.
 
 **Managers – responsible for:**
 
--   Carrying out any delegated authorities and assigned tasks in accordance with
-    this Directive.
+-   Carrying out any delegated authorities and assigned tasks in accordance with this Directive.
 
 -   Ensuring staff are aware of the requirements of this Directive.
 
@@ -464,8 +456,7 @@ responsible for:**
 
 **Employees – responsible for:**
 
--   Being aware of and following the principles and requirements of this
-    directive.
+-   Being aware of and following the principles and requirements of this directive.
 
 Appendix A – Open Government Licence -– Ontario
 -----------------------------------------------
@@ -479,9 +470,7 @@ Open Government Licence – Ontario
 
 1.  Use of any information indicates your acceptance of the terms below.
 
-2.  The information provider grants you a worldwide, royalty-free, perpetual,
-    non-exclusive licence to use the Information, including for commercial
-    purposes, subject to the terms below.
+2.  The information provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.
 
 **You are free to:**
 
@@ -494,7 +483,7 @@ Open Government Licence – Ontario
     statement specified by the information provider(s) and, where possible,
     provide a link to this licence.
 
--   If the information provider does not provide a specific attribution
+    If the information provider does not provide a specific attribution
     statement, or if you are using information from several information
     providers and multiple attributions are not practical for your product or
     application, you must use the following attribution statement:
