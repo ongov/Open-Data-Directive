@@ -12,23 +12,23 @@ Table of Contents
 
 1. [Introduction](#Introduction)
 
-2. [Purpose](#_Purpose)
+2. [Purpose](#Purpose)
 
-[3 Application and Scope - 5](#_Toc12543509)
+3. [Application and Scope](#Application_and_Scope)
 
-[4 Principles - 5](#_Toc12543510)
+4. [Principles](#Principles)
 
-[5 Requirements - 5](#_Toc12543511)
+5. [Requirements5](#Requirements)
 
-[6 Open Data Engagement - 9](#_Toc12543512)
+6. [Open Data Engagement](#Open_Data_Engagement)
 
-[7 Definitions - 9](#_Toc12543513)
+7. [Definitions](#Definitions)
 
-[8 ResponsIbilities - 11](#_Toc12543514)
+8. [Responsibilities](#Responsibilites)
 
-[Appendix A – Open Government Licence – Ontario - 13](#_Toc12543515)
+10. [Appendix A – Open Government Licence – Ontario](#Appendix_A_–_Open_Government_Licence_–_Ontario)
 
-[Appendix B – Approval Authorities - 15](#appendix-b-approval-authorities)
+11. [Appendix B – Approval Authorities](#Appendix_B_–_Approval_Authorities)
 
 | Date of Amendment | Description of Amendment                                                                                                               | Page Reference          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
@@ -86,7 +86,7 @@ This directive:
 -   Promotes a culture of openness and collaboration both within the public
     service and externally with the people of Ontario.
 
-3 Application and Scope
+Application and Scope
 ------------------------
 
 This directive applies to all Ontario ministries and provincial agencies.
@@ -102,7 +102,7 @@ Act, 1990*, the *Personal Health Information Protection Act, 2004*, the *French
 Language Services Act, 1990*, and the *Accessibility for Ontarians with
 Disabilities Act, 2005* or other applicable legislation.
 
-4 Principles
+Principles
 -------------
 
 Government data is open by default unless exempted from release in limited and
@@ -130,7 +130,7 @@ Guidelines](https://www150.statcan.gc.ca/n1/en/catalogue/12-539-X)) and released
 in accordance with the principles in the [International Open Data
 Charter](https://opendatacharter.net/principles/).
 
-5 Requirements
+Requirements
 ---------------
 
 The directive requires government data be open by default unless exempted from
@@ -280,7 +280,7 @@ release in limited and specific circumstances as set out below:
     programming interfaces (API) in accordance with common best practices
     presented in the Open Data Guidebook.
 
-6 Open Data Engagement
+Open Data Engagement
 -----------------------
 
 As part of Ontario’s Open Government Initiative, ministries and provincial
@@ -314,7 +314,7 @@ stakeholders and the public.
     This includes collecting community input, feedback and improving open data
     quality standards.
 
-7 Definitions
+Definitions
 --------------
 
 **provincial agency —** has the following characteristics:
@@ -400,7 +400,7 @@ Ontario and certain Creative Commons licences.
 Freedom of Information and Protection of Privacy Act* and as “Personal Health
 Information” in the *Personal Health Information Protection Act.*
 
-8 ResponsIbilities
+Responsibilities
 -------------------
 
 **Chief Digital and Data Officer – responsible for:**
@@ -458,7 +458,7 @@ responsible for:**
 
 -   Being aware of and following the principles and requirements of this directive.
 
-Appendix A – Open Government Licence -– Ontario
+Appendix A – Open Government Licence – Ontario
 -----------------------------------------------
 
 Note: The Open Government Licence – Ontario is based on a template adopted by
