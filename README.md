@@ -10,9 +10,9 @@ Open Data Directive
 Table of Contents
 -----------------
 
-[1 Introduction - 4](#_1_Introduction)
+[1 Introduction - 4](##1_Introduction)
 
-[2 Purpose - 4](#_2 Purpose)
+[2 Purpose - 4](##_2_Purpose)
 
 [3 Application and Scope - 5](#_Toc12543509)
 
@@ -220,7 +220,7 @@ release in limited and specific circumstances as set out below:
 8.  No datasets released as open data are to be deleted or removed from public
     access except where a dataset was published in error:
 
--   8.1 In situations where active maintenance and update of a dataset is
+    8.1 In situations where active maintenance and update of a dataset is
     discontinued, or where any published dataset has to be replaced with a newer
     or modified version, the dataset description must be updated in the
     catalogue to reflect the “inactive” status, without restricting public
