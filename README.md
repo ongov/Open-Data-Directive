@@ -24,7 +24,7 @@ Table of Contents
 
 7. [Definitions](#7-Definitions)
 
-8. [Responsibilities](#8-Responsibilites)
+8. [Responsibilities](#8-Responsibilities)
 
 [Appendix A Open Government Licence Ontario](#Appendix-A-Open-Government-Licence-Ontario)
 
